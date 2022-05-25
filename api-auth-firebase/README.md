@@ -1,19 +1,6 @@
-# formulario-1
+PARA PODER VER EL FORMULARIO PRINCIPAL Y LAS TAREAS CARGADAS PUEDE:
 
-## Project setup
-```
-npm install
-```
+1) Ingresar puede iniciar sesion con el siguiente usuario -> soles@gmail.com / 123456
+2) O tambien puede registrarse con usuario cualquiera( no es requerido un email real )
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Muchas gracias!
